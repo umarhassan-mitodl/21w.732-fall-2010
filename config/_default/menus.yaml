@@ -1,0 +1,58 @@
+leftnav:
+- identifier: 6b8877f8-ed42-de0b-33e0-36c6ba1ce336
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cd60ff79-9351-cfe2-c9c9-20542b218425
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 70eb4231-89aa-de52-63de-e12057e2722d
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: ba062c6e-f1f2-6745-89d3-f9adeb95a855
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: f427c6f8-d9d9-cbc5-8cf5-169bc4e4bd84
+  name: Exercises and In-Class Activities
+  pageRef: /pages/assignments/exercises
+  parent: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
+  weight: 60
+- identifier: fed2ca24-607a-708f-5aa7-a3166b609472
+  name: 'Essays '
+  pageRef: /pages/assignments/movie-essay
+  parent: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
+  weight: 70
+- identifier: ab63e918-4e88-33f4-ed75-00f6a431ab4d
+  name: Project I
+  pageRef: /pages/assignments/project-i
+  parent: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
+  weight: 80
+- identifier: 02eb8143-c293-8031-2110-1b0f94640463
+  name: Project II
+  pageRef: /pages/assignments/project-ii
+  parent: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
+  weight: 90
+- identifier: 0487c975-62f4-5496-ee82-03f1ae1b6263
+  name: Project III
+  pageRef: /pages/assignments/project-iii
+  parent: 6f5557a2-c92c-7234-6b08-21fcea0d0c2e
+  weight: 100
+- identifier: 20fb36ce-26a6-8e3f-6f7b-d2a695f9fb2d
+  name: Projects
+  pageRef: /pages/projects
+  weight: 110
+- identifier: 5770154e-36e3-b8d5-87bd-9f13bcb5cf35
+  name: Evaluation
+  pageRef: /pages/evaluation
+  weight: 120
+- identifier: ea66b9b9-8312-05d5-9603-d151d8310aed
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 130
