@@ -2,6 +2,8 @@
 content_type: page
 description: ''
 draft: false
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: 70eb4231-89aa-de52-63de-e12057e2722d
 
 This page focuses on the course 21W.732 _Science Writing and New Media_ as it was taught by David Custer and Elizabeth A. Page in Fall 2010. This course is now offered under the course number 21W.033. 
 
-Taught as part of MIT's {{% resource_link "c018be06-7973-40e5-8fff-37af831cb804" "Experimental Study Group (ESG)" %}}, this course frames writing, graphics, meetings, oral presentation, collaboration, and design as tools for product development. Students work in teams to conceive, design, as well as prototype their projects while exercising and improving their communication skills. In teaching this course, David focuses on presenting dualities of learning: the humanistic and the technical, and also the communicative and collaborative.
+Taught as part of MIT's [Experimental Study Group (ESG)](http://esg.mit.edu/about-esg/academic-philosophy), this course frames writing, graphics, meetings, oral presentation, collaboration, and design as tools for product development. Students work in teams to conceive, design, as well as prototype their projects while exercising and improving their communication skills. In teaching this course, David focuses on presenting dualities of learning: the humanistic and the technical, and also the communicative and collaborative.
 
 ## Course Outcomes
 

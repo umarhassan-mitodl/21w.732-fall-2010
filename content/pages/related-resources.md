@@ -7,19 +7,19 @@ title: Related Resources
 uid: ea66b9b9-8312-05d5-9603-d151d8310aed
 ---
 
-Poster example: "{{% resource_link "e5fcdbdf-c76f-4c93-a159-6388e9a6a926" "The Ravine" %}}" by Vincent Van Gogh.
+Poster example: "[The Ravine](http://www.pri.org/theworld/?q=node/11875)" by Vincent Van Gogh.
 
-Examples from {{% resource_link "eaad88b7-0684-4593-9904-b07d44db8a68" "2.009 Product Engineering at MIT" %}}. (Click on product image, and then Ideas).
+Examples from [2.009 Product Engineering at MIT](http://web.mit.edu/2.009_gallery/www/2005/index.html). (Click on product image, and then Ideas).
 
-Clip from {{% resource_link "99373eac-9474-4a1b-b3db-1f8c02d15623" "_The Princess Bride_" %}}
+Clip from [_The Princess Bride_](http://www.youtube.com/watch?v=i3W5GDkgf2w)
 
 Sample Reports
 --------------
 
-Silverstein, Calvin C. "{{% resource_link "1a38ebe7-1571-4a42-8633-9ae0b2f92dde" "Self-Cooling Cavity Burs for Surgical Drills" %}} ." _Journal of Medical Devices_ 4 (2007): 293.
+Silverstein, Calvin C. "[Self-Cooling Cavity Burs for Surgical Drills](http://dx.doi.org/10.1115/1.2815330) ." _Journal of Medical Devices_ 4 (2007): 293.
 
-Harris, Chad, Mircea Despa, and Kevin Kelly. "{{% resource_link "88ec080f-081b-4763-91a5-be49a2aa10ba" "Design and Fabrication of a Cross Flow Micro Heat Exchanger" %}}." _Journal of Microelectromechanical Systems_ 4, no. 9 (2000): 502.
+Harris, Chad, Mircea Despa, and Kevin Kelly. "[Design and Fabrication of a Cross Flow Micro Heat Exchanger](http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Farnumber%3D00896772&authDecision=-203)." _Journal of Microelectromechanical Systems_ 4, no. 9 (2000): 502.
 
-Thomson, William. "{{% resource_link "41111e28-e4ca-45c7-9126-0c8973194ddd" "On the Secular Cooling of the Earth" %}}." _Transactions of the Royal Society of Edinburgh_. Vol XXIII, April 28, 1862.
+Thomson, William. "[On the Secular Cooling of the Earth](http://zapatopi.net/kelvin/papers/on_the_secular_cooling_of_the_earth.html)." _Transactions of the Royal Society of Edinburgh_. Vol XXIII, April 28, 1862.
 
-Arasu, A. Valan, and T. Sornakumar. "{{% resource_link "f748218a-329c-41d2-9f4e-241ee53ab21b" "Design, Manufacture, and Testing of Fiberglass Reinforced Parabola Trough for Parabolic Trough Solar Collectors." %}}" _Solar Energy_ 81 (2007): 1273-1279.
+Arasu, A. Valan, and T. Sornakumar. "[Design, Manufacture, and Testing of Fiberglass Reinforced Parabola Trough for Parabolic Trough Solar Collectors.](http://dx.doi.org/10.1016/j.solener.2007.01.005)" _Solar Energy_ 81 (2007): 1273-1279.

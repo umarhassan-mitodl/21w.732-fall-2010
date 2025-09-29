@@ -4,6 +4,8 @@ description: ''
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/ba1e93e195153f890fbe58922e9dfda1_21W-732_stat-students.png
 file_size: 2729
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

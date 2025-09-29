@@ -4,6 +4,8 @@ description: 'This resource contains punctuation exercise. '
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/7abab618730d48dc7b1631ec0cc7a31e_MIT21W_732F10_punct_ex.pdf
 file_size: 31884
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
