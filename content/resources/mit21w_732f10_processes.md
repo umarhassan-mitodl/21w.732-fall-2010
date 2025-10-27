@@ -4,8 +4,6 @@ description: 'This resource contains information related to process summary. '
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/0042f95327595b8266b3278302329991_MIT21W_732F10_processes.pdf
 file_size: 68427
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

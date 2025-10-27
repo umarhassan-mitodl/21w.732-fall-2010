@@ -5,8 +5,6 @@ description: 'This resource contains information related to MIT student writing 
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/fba9a7901758b9348e2a8d40574a6886_MIT21W_732F10_selfassess.pdf
 file_size: 166338
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

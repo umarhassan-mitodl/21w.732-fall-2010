@@ -4,8 +4,6 @@ description: 'This resource contains information related to end of term report o
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/a93b6262804c340b9e668836609d447a_MIT21W_732F10_termend.pdf
 file_size: 21537
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

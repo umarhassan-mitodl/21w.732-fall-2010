@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,7 +16,7 @@ In this course, students were required to complete both a movie essay and severa
 Movie essay
 -----------
 
-Explain teamwork and the use of non-verbal communication in the 1939 film [_Stagecoach_](http://www.imdb.com/title/tt0031971/) starring John Wayne.  ({{% resource_link a6b85fdc-10ba-aade-cbce-008719d75754 "PDF" %}})
+Explain teamwork and the use of non-verbal communication in the 1939 film {{% resource_link "c1d565e2-2852-447d-bf71-577696dd2d23" "_Stagecoach_" %}} starring John Wayne.  ({{% resource_link a6b85fdc-10ba-aade-cbce-008719d75754 "PDF" %}})
 
 Reflective essays
 -----------------

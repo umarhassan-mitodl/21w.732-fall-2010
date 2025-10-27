@@ -5,8 +5,6 @@ description: 'This resource contains information related to questions to conside
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/f6306a3f9bd28a4745d82b8ae4c1f64e_MIT21W_732F10_contract.pdf
 file_size: 25823
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

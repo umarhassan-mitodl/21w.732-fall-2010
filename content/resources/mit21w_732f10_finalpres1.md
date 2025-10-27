@@ -5,8 +5,6 @@ description: 'This resource contains information related to final project - jerk
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/b3eab3166b8064f17602746a7202667b_MIT21W_732F10_Finalpres1.pdf
 file_size: 1178548
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

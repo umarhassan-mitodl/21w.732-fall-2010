@@ -5,8 +5,6 @@ description: 'This resource contains information related to project 2 - final re
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/990ec29d73766d5ec5c84470a9fe2e01_MIT21W_732F10_final_focus1.pdf
 file_size: 1058754
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

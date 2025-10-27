@@ -5,8 +5,6 @@ description: 'This resource contains information related to MIT student writing 
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/6d8f637cba9892e61496fc68953bb86c_MIT21W_732F10_speaking.pdf
 file_size: 130455
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

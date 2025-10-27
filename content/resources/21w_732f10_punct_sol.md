@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/f53279a81d2d186b2815e29e6ce4ca5d_21W_732F10_punct_sol.pdf
 file_size: 130222
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains detailed information about the course including
   assignments, logistics, grading and general expectations.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +16,7 @@ Seminars: 1 session / week, 1.5 hours / session
 Experimental Study Group
 ------------------------
 
-This section of the course was taught as part of MIT's [Experimental Study Group (ESG)](http://esg.mit.edu/about-esg/academic-philosophy). In contrast to the set structure of the regular curriculum, ESG's flexibility allows students to go at their own pace whenever possible and to organize their schedules to suit their needs. ESG's small classes allow students to interact more often with faculty and fellow students than is typical in larger classes, and to experiment with novel ways of learning the material.
+This section of the course was taught as part of MIT's {{% resource_link "f783c648-6d2e-427a-a4d7-a1fb5e33177b" "Experimental Study Group (ESG)" %}}. In contrast to the set structure of the regular curriculum, ESG's flexibility allows students to go at their own pace whenever possible and to organize their schedules to suit their needs. ESG's small classes allow students to interact more often with faculty and fellow students than is typical in larger classes, and to experiment with novel ways of learning the material.
 
 Prerequisites
 -------------
@@ -39,7 +37,7 @@ There is NO final exam in 21W.732.
 Text
 ----
 
-No text is required for this course. We encourage students to own and cherish a copy of their favorite style guide. Additionally, style and grammar help is available on the World Wide Web. For example, [_The Mayfield Handbook of Technical and Scientific Writing_](http://www.mhhe.com/mayfieldpub/tsw/home.htm) is a handy reference.
+No text is required for this course. We encourage students to own and cherish a copy of their favorite style guide. Additionally, style and grammar help is available on the World Wide Web. For example, {{% resource_link "e94248ff-2542-4701-8d53-9703be4b1d45" "_The Mayfield Handbook of Technical and Scientific Writing_" %}} is a handy reference.
 
 Teaching Approach
 -----------------
@@ -51,7 +49,7 @@ Teaching Approach
 *   To write the write, you need to read the read; to talk the talk, you need to listen.
 *   Communicators put more time and effort into communicating when subject matter is near and dear.
 
-Almost all work in 21W.732 is based on the [Peer-Review Evaluation Process (PDF)](http://pergatory.mit.edu/resources/random/Peer%20Review%20Process.pdf) design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
+Almost all work in 21W.732 is based on the {{% resource_link "da5379f7-cbc5-42f3-b8b3-c46c403d058b" "Peer-Review Evaluation Process (PDF)" %}} design cycle, whereby individual thought develops into a collaborative project. This cycle applies to both the communication work and the product design. For more info concerning this design cycle, see: Graham, M., A. Slocum, and R. Moreno Sanchez. "Teaching High School Students and College Freshmen Product Development by Deterministic Design with PREP." _Journal of Mechanical Design_ 129 (July 2007): 677.
 
 Assignments
 -----------

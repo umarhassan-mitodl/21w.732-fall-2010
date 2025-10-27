@@ -6,8 +6,6 @@ description: "Students Jonathan Slocum, Flor De La Cruz, and Julie Wang work on 
 file: /courses/21w-732-science-writing-and-new-media-fall-2010/03ddf23585dc6608d437ce86796636a1_CHP_candle.jpg
 file_size: 68780
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
